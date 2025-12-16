@@ -1,0 +1,23 @@
+
+    HOW YOU WILL MAKE THE CPP PROJECT
+
+This readme is for you,
+the people that are reading this. 
+
+First of all, you can do this yourself.
+		
+		VERY IMPORTANT DATES
+
+	PROJECT DUE DATE: Friday, 9 Jan 2026
+	FIRST COMMIT IN myproject.zip: 
+To do it you need to master some basics of the computer.
+
+A little bit of bash and C++ 
+can take you a very long way in programming. I hope by now 
+you learned how to get to any 
+directory(folder) you want in your computer.
+
+        How to change adress
+        $cd <adress>
+
+This is the adress of your location in the computer
