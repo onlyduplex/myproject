@@ -8,12 +8,22 @@ First of all, you can do this yourself.
 		
 		VERY IMPORTANT DATES
 
-	PROJECT DUE DATE: Friday, 9 Jan 2026
-	FIRST COMMIT IN myproject.zip: 
-To do it you need to master some basics of the computer.
+	PROJECT DUE DATE: 
+	-> Fri, 9 Jan 2026
 
-A little bit of bash and C++ 
-can take you a very long way in programming. I hope by now 
+	FIRST COMMIT IN myproject.zip WAS MADE ON:
+	-> Wed 9 Dec 2025 
+
+To do it you need to master some basics of the computer.
+If you are reading this, you already know how to:
+
+	-> List Directory ........................... l
+	-> Change Directory ......................... cd
+	-> Get Path Of Working Directory............. pwd
+	-> Print Text Files ......................... cat
+
+A little bit of bash and C++ can take you
+a very long way in programming. I hope by now 
 you learned how to get to any 
 directory(folder) you want in your computer.
 
