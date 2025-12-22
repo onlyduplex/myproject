@@ -55,6 +55,7 @@ int main(){
 	}
 
 	genName(chin, turk, rus);
+	
 
 
 }
